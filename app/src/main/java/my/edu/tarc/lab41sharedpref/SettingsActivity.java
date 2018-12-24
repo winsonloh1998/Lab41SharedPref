@@ -8,7 +8,7 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 
 public class SettingsActivity extends AppCompatActivity {
-    public static final String FILE_NAME = "my.edu.tarc.lab41sharedpref";
+    private static final String FILE_NAME = "my.edu.tarc.lab41sharedpref";
     private EditText editTextName;
     private RadioGroup radioGroupGender;
     private RadioButton radioButtonMale,radioButtonFemale;
