@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab 4.1 SharedPref</string>
+    <string name="action_settings">Settings</string>
+</resources>
